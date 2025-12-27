@@ -1,0 +1,21 @@
+ h1{
+            text-align: center;
+        }
+        .bt{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 20px;
+        }
+        .button{
+            height: 40px;
+            width: 60px;
+            border-radius: 10px;
+
+        }
+        #start{
+            background-color: green;
+        }
+        #stop{
+            background-color: red;
+        }
